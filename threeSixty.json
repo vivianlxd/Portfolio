@@ -1,0 +1,47 @@
+{
+  "version": "3.69.28997.0",
+  "course_id": "6p1mOBvWYZR",
+  "title": "Sleep Project",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6StJrrc1hj6",
+      "title": "Intro",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6ZVw7sjTff9",
+      "title": "Caffeine",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6fZue1vvIBE",
+      "title": "Exercise",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "65dCHRt03cD",
+      "title": "Bedroom",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6OZHwNIvig2",
+      "title": "Summary",
+      "scene_index": "1.5"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1300,
+    "height": 838
+  },
+  "stage": {
+    "width": 1280,
+    "height": 720
+  }
+}
